@@ -67,3 +67,12 @@ tflint --init && tflint
 # Run Checkov security scanning
 checkov -d . --framework terraform
 ```
+
+---
+
+## 👨‍💻 Author
+
+**Osama Khalil**
+- **Role:** Senior DevOps Engineer | Microsoft Azure | Terraform | CI/CD | Linux
+- **GitHub:** [@khalilosam](https://github.com/khalilosam)
+- **LinkedIn:** [linkedin.com/in/osama-khalil-20525227](https://www.linkedin.com/in/osama-khalil-20525227/)
